@@ -1,6 +1,5 @@
 {
-    "name": "doctrine/doctrine1",
-    "version": "1.2.6",
+    "name": "vrabeshkoyaware/doctrine1",
     "type": "library",
     "description": "PHP5 Database ORM",
     "keywords": ["orm", "database"],
